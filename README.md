@@ -1,21 +1,4 @@
-# Oluseyi Taiwo - QA Portfolio
 
-## About Me
-
-Detail-oriented QA Tester with experience in mobile application testing, exploratory testing, and security validation.
-
-
-## Skills
-
-- Exploratory Testing
-- Functional Testing
-- Mobile App Testing (Android)
-- Bug Reporting
-- Test Case Execution
-- Security & OTP Validation
-
-
-## Sample Bug Report
 
 ### Title: Account - Phone Verification Stalls in Personal Details When Changing Email
 
